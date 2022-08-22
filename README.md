@@ -12,6 +12,7 @@
         <li><a href="/fill-google-form-csv">Cargar datos de Excel a Google Form</a></li>
         <li><a href="/create-multiple-folders">Crear múltiples carpetas</a></li>
         <li><a href="/extract-tables-from-website">Extraer tablas de páginas web</a></li>
+        <li><a href="/extract-tables-from-pdf">Extraer tablas de PDF</a></li>
     </ul>
 </div>
 <div>

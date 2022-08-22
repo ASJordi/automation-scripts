@@ -1,3 +1,6 @@
 .tmp.drivedownload/
 .tmp.driveupload/
 .idea/
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/
+.vscode/
