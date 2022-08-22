@@ -10,6 +10,7 @@
     <h3>Contenido</h3>
     <ul>
         <li><a href="/fill-google-form-csv">Cargar datos de Excel a Google Form</a></li>
+        <li><a href="/create-multiple-folders">Crear múltiples carpetas</a></li>
     </ul>
 </div>
 <div>
